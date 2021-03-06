@@ -19,7 +19,7 @@ See also the [configuration system at my portfolio](https://github.com/TamirHen-
 
 ## Tools
 
-HTML, CSS, JS, React.js, Firebase
+HTML, CSS, JS, React.js, Node.js, Firebase
 
 ## Fully Responsive
 
