@@ -6,8 +6,7 @@
 
 ## Description
 
-This project made for people who wants a flexible portfolio.
-Every little detail can be change: pages, photos, titles, labels, text descriptions, data positioning at every level of responsibility, responsibility break-points and more...
+This project was made for designers who seek a fully customizable portfolio. Every detail can be personalized: pages, photos, titles, labels, text descriptions, data positioning at every level of responsivity, responsivity break-points and more...
 
 See also the [configuration system at my portfolio](https://github.com/TamirHen-Portfolio/digital-portfolio-config).
 
